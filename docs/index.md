@@ -1,7 +1,7 @@
 # Journal
 ---------
 
-Journal serves as a place to store your notes. 
+Journal serves as a place to store your notes. To get started, go to [https://journal.cloudmatica.com](https://journal.cloudmatica.com)
 
 Among other things, you can use your journal to:
 
